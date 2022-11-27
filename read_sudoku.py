@@ -1,0 +1,1 @@
+"""Sudoku image to text."""
